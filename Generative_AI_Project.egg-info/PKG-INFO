@@ -1,0 +1,10 @@
+Metadata-Version: 2.2
+Name: Generative-AI-Project
+Version: 0.0.0
+Summary: A simple medical chat bot
+Author: Divyanshu Aaryan
+Author-email: divyanshuaarayan@gmail.com
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
